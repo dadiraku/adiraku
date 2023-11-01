@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case 1</description>
+   <name>TS Pertama</name>
+   <tag>TS1</tag>
+   <comment></comment>
+   <testCaseGuid>fcca25a7-2a1c-460b-ae7c-47bc1f60d01b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0650e2b7-e5f9-45be-bef4-8e4a84840d1b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0650e2b7-e5f9-45be-bef4-8e4a84840d1b</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
